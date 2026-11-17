@@ -1,1 +1,1 @@
-"""patenttrack baseline (single-responsibility pipeline)."""
+"""patenttrack package (single-responsibility pipeline)."""
