@@ -1,0 +1,73 @@
+[
+  {
+    "id": "mix-cn-pub",
+    "src": "cnipa",
+    "name": "智能 手机 支架",
+    "app_no": "CN 2024-100001.5",
+    "pub_no": "CN1234567A",
+    "status": "公开",
+    "ts": "2024-01-10T00:00:00Z"
+  },
+  {
+    "id": "mix-ep-grant",
+    "src": "EPO",
+    "name": "智能手机支架",
+    "application_no": "CN2024100001.5",
+    "publication_number": "CN-1234567-B1",
+    "status": "granted",
+    "ts": "2025-03-02T00:00:00Z"
+  },
+  {
+    "id": "mix-us-amend",
+    "src": "uspto",
+    "name": "智能手机支架",
+    "app": "CN2024100001.5",
+    "pub": "CN1234567B1",
+    "status": "更正公告",
+    "event_kind": "amendment",
+    "amendment_no": "2",
+    "amendment_text": "权利要求更正",
+    "ts": "2025-06-01T00:00:00Z"
+  },
+  {
+    "id": "mix-us-family",
+    "src": "uspto",
+    "name": "Smart phone holder",
+    "app_no": "US 18/111,222",
+    "priority": "CN2024100001.5",
+    "status": "pending",
+    "ts": "2024-05-01T00:00:00Z"
+  },
+  {
+    "id": "mix-us-samebody",
+    "src": "uspto",
+    "name": "Holder",
+    "app_no": "US1234567",
+    "status": "active",
+    "ts": "2024-02-01T00:00:00Z"
+  },
+  {
+    "id": "mix-jp-samebody",
+    "src": "jpo",
+    "name": "Holder",
+    "app_no": "JP1234567",
+    "status": "active",
+    "ts": "2024-02-02T00:00:00Z"
+  },
+  {
+    "id": "mix-tm-reg",
+    "src": "cnipa",
+    "name": "云舟",
+    "reg_no": "CN 30512345",
+    "status": "registered",
+    "ts": "2023-09-09T00:00:00Z"
+  },
+  {
+    "id": "mix-tm-reg-dup",
+    "src": "wipo",
+    "name": "云舟",
+    "registration_no": "CN30512345",
+    "status": "注册",
+    "ts": "2023-09-09T00:00:00Z"
+  }
+]
